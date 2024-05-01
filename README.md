@@ -7,7 +7,7 @@ Tenho interesse em computação gráfica, projetos open-source e desenvolvimento
 
 <div align="center">
 
-### Skills
+### Skills e Stats
 [![My Skills](https://skillicons.dev/icons?i=linux,c,java,python,postgres,html,css,js)](https://skillicons.dev)
 </div>
 
