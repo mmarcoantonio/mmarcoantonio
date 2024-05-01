@@ -5,6 +5,8 @@
 Bem-vindo ao meu perfil! - Sou um universitário que busca conhecimento na área de tecnologia.  
 Tenho interesse em computação gráfica, projetos open-source e desenvolvimento geral.
 
+- 🧠 **Atualmente aprendendo**: Verificar e validar softwares, método HTTP e API, Requisitos e Língua Japonesa!
+
 <div align="center">
 
 ### Skills e Stats
