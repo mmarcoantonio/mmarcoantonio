@@ -14,11 +14,8 @@ Tenho interesse em computação gráfica, projetos open-source e desenvolvimento
 &nbsp;
 
 <div align="center">
-
-### Status
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=mmarcoantonio&theme=dark&show_icons=true&rank_icon=github&hide=issues,stars">
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarcoantonio&theme=dark">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=mmarcoantonio&theme=dark&show_icons=true&rank_icon=github&hide=issues,stars">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmarcoantonio&theme=dark&hide_progress=true">
 </div>
 
 &nbsp;
