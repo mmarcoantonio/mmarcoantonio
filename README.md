@@ -1,7 +1,10 @@
 # Hello, World! 👋
 
-Em busca de mais conhecimento na área de tecnologia.  
-Gosto de computação gráfica, projetos open-source e desenvolvimento em geral.
+Em busca de mais conhecimento na área de tecnologia. Gosto de computação gráfica, projetos open-source e desenvolvimento em geral.  
+
+```C
+char *Dia_a_Dia[] =  {"estudar", "programar", "escutar música", "youtube"};
+```
 
 - 🧠 **Atualmente aprendendo**: Verificar, validar e testar softwares, Método HTTP, APIs, Elicitação de Requisitos e Língua Japonesa!
 
