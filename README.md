@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-Em busca por mais conhecimento na área de tecnologia.  
+Em busca de mais conhecimento na área de tecnologia.  
 Gosto de computação gráfica, projetos open-source e desenvolvimento em geral.
 
 - 🧠 **Atualmente aprendendo**: Verificar, validar e testar softwares, Método HTTP, APIs, Elicitação de Requisitos e Língua Japonesa!
