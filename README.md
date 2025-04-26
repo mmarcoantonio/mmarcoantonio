@@ -1,4 +1,4 @@
-# yO 👋
+# yO 👋 
 
 🧠 **Ideia do momento**: como fazer um editor de texto no terminal.
 
