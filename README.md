@@ -1,9 +1,9 @@
-# yO 👋 
+# yO 👋
 
 🧠 **Ideia do momento**: como fazer um editor de texto no terminal.
 
 ```C
-char *Dia_a_Dia[] =  {"estudar", "escutar música", "ler muito"};
+char *Dia_a_Dia[] =  {"estudar", "escutar música", "ler mangá"};
 ```
 
 <div align="center">
